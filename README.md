@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Building%20reliable%20digital%20systems%2C%20one%20verification%20cycle%20at%20a%20time;RTL%20Design%20%E2%80%A2%20UVM%20Verification%20%E2%80%A2%20FPGA%20Development" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Building%20reliable%20digital%20systems%2C%20one%20verification%20cycle%20at%20a%20time;RTL%20Design%20%E2%80%A2%20SystemVerilog%20%E2%80%A2%20UVM%20Verification" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 🔌 Building digital systems, one signal at a time
 
-🔭 &nbsp;I'm currently working on **RTL designs, verification environments, and learning new hardware concepts**  
+🔭 &nbsp;I'm currently working on **RTL design, SystemVerilog/UVM verification, and digital design projects**  
 ⚡ &nbsp;Fun fact: **I speak fluent Verilog and occasionally argue with my simulator**
 
 ### 🛠️ Tech Stack
@@ -29,7 +29,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/linkedin.com/in/shradha-rajeev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/shradha-rajeev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sradharajiv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
