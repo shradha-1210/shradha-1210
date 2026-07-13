@@ -12,7 +12,7 @@
 
 🔌 Building digital systems, one signal at a time
 
-🔭 &nbsp;I'm currently working on **RTL design, SystemVerilog/UVM verification, and digital design projects**  
+🔭 &nbsp;I'm currently working on **RTL design, SystemVerilog/UVM verification and digital design projects**  
 ⚡ &nbsp;Fun fact: **I speak fluent Verilog and occasionally argue with my simulator**
 
 ### 🛠️ Tech Stack
@@ -29,7 +29,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/shradha-rajeev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shradha-rajeev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sradharajiv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
