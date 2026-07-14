@@ -31,7 +31,7 @@
 </p>
 
 <p align="left">
-  <b>Tools:</b> Xcelium • VCS • ModelSim • GTKWave • Vivado
+  <b>EDA Tools:</b> Xcelium • VCS • Verilator • SimVision • GTKWave • Genus • vManager
 </p>
 
 ### 🔗 Connect With Me
