@@ -30,6 +30,10 @@
   <b>Hardware:</b> Verilog • SystemVerilog • UVM • VHDL • RTL Design • Digital Logic
 </p>
 
+<p align="left">
+  <b>Tools:</b> Xcelium • VCS • ModelSim • GTKWave • Vivado
+</p>
+
 ### 🔗 Connect With Me
 
 <p align="left">
