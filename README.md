@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  <b>Hardware:</b> Verilog • SystemVerilog • UVM • VHDL • RTL Design • Digital Logic
+  <b>Hardware:</b> Verilog • SystemVerilog • UVM • RTL Design • Digital Logic
 </p>
 
 <p align="left">
